@@ -169,7 +169,7 @@ header{
 /* Seccion Hero */
 .hero{
   background-size: cover;
-  height: 85vh;
+  height: 90 vh;
   color: white;
   text-align: center;
   justify-content: start;
