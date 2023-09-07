@@ -666,3 +666,9 @@ header{
     padding-right: 0em;
   }
 }
+
+@media screen and (max-height: 850px) {
+  .hero{
+    height: 90vh;
+  }
+}
