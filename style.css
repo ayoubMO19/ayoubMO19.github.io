@@ -168,12 +168,12 @@ header{
 
 /* Seccion Hero */
 .hero{
-  background-size: cover;
   height: 90vh;
   color: white;
   text-align: center;
   justify-content: start;
   position: relative;
+  border: solid red;
 }
 
 .hero-principal{
