@@ -667,7 +667,7 @@ header{
   }
 }
 
-@media screen and (max-height: 850px) {
+@media screen and (max-height: 600px) {
   .hero{
     height: 50vh !important;
     border: none;
