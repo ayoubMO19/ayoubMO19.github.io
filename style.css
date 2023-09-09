@@ -548,7 +548,7 @@ header{
 
 @media screen and (max-width: 767px) {
   .hero{
-    height: 60vh !important;
+    height: 80vh !important;
     border: green !important;
   }
   
