@@ -593,6 +593,10 @@ header{
 }
 
 @media screen and (max-width: 576px) {
+  .hero .datos{
+    display: none;
+  }
+  
   .ubi{
     display: none;
   }
