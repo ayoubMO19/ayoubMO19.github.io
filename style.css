@@ -669,7 +669,7 @@ header{
 
 @media screen and (max-height: 600px) {
   .hero{
-    height: 85vh !important;
-    border: none !important;
+    height: 88vh !important;
+    border: green !important;
   }
 }
