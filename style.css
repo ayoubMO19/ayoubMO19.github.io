@@ -549,7 +549,7 @@ header{
 @media screen and (max-width: 767px) {
   .hero{
     height: 80vh !important;
-    border: green !important;
+    border: solid green !important;
   }
   
   .hero h1, h2{
@@ -669,12 +669,5 @@ header{
   .contactar  {
     padding-left: 0em;
     padding-right: 0em;
-  }
-}
-
-@media screen and (max-height: 800px) {
-  .hero{
-    height: 60vh !important;
-    border: green !important;
   }
 }
