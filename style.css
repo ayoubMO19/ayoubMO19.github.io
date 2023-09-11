@@ -180,6 +180,8 @@ header{
 
 .hero-principal{
   padding: 3rem;
+  border: solid green;
+  height: 100%;
 }
 
 .Titulo{
@@ -189,6 +191,7 @@ header{
 
 .datos {
   padding: 1rem;
+  border: solid blue;
 }
 
 .ubi {
