@@ -168,7 +168,7 @@ header{
 
 /* Seccion Hero */
 .hero{
-  height: 100vh !important; 
+  height: 100vh; 
   color: white;
   text-align: center;
   justify-content: start;
@@ -593,6 +593,11 @@ header{
 }
 
 @media screen and (max-width: 576px) {
+  .hero{
+    height: 93vh;
+    border: solid red;
+  }
+
   .ubi{
     display: none;
   }
