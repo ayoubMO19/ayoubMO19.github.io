@@ -176,6 +176,7 @@ header{
   text-align: center;
   justify-content: start;
   position: relative;
+  border: white solid;
 }
 
 .hero-principal{
