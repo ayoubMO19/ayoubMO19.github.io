@@ -176,13 +176,12 @@ header{
   text-align: center;
   justify-content: start;
   position: relative;
-  border: white solid;
+  border: none;
 }
 
 .hero-principal{
   padding: 3rem;
-  border: solid green;
-  height: 100%;
+  border: none;
 }
 
 .Titulo{
@@ -192,7 +191,7 @@ header{
 
 .datos {
   padding: 1rem;
-  border: solid blue;
+  border: none;
 }
 
 .ubi {
